@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayanneregoo&show_icons=true&theme=synthwave )
+(https://github-readme-stats.vercel.app/api?username=thayanneregoo&show_icons=true&theme=synthwave )
+(https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneregoo&layout=donut)](https://github.com/thayanneregoo/github-readme-stats)
 
 <!---
 thayanneregoo/thayanneregoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
