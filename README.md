@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thayanneregoo
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneregoo1&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneregoo&stats_format=bytes)
 
 
 <!---
