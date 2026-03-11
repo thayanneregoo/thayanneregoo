@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thayanneregoo
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayanneregoo&show_icons=true&theme=synthwave )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneregoo1&stats_format=bytes)
 
 
 <!---
