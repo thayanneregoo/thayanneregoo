@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Thayanne Rego
 
-
+<img src="assets/gif/hello.gif" >
 
 ## 🧠 Tecnologias & Conhecimentos
 
@@ -12,7 +12,17 @@
 - 🌐 HTML, CSS, JavaScript  
 - 🔄 Metodologias Ágeis (Scrum, Kanban)  
 - 🗂️ Git & GitHub  
-- 📱 Desenvolvimento Web  
+- 📱 Desenvolvimento Web
+
+---
+ 
+
+## 🚀 Sobre mim
+
+Sou desenvolvedora com foco em **frontend**, apaixonada por tecnologia e aprendizado contínuo.  
+Tenho experiência com desenvolvimento de interfaces modernas, organização de projetos e boas práticas.
+
+✨ Busco oportunidades para crescer como desenvolvedora e contribuir com soluções reais.
 
 ---
 
@@ -25,21 +35,14 @@
 
 📧 Email: thayanneregoo@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/thayanneregoo
+
 ---
 🎓 Técnica em Desenvolvimento de Sistemas  
 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 📍 Embarque Digital - FICR (2026 - atual)  
 📍 Tecnologia da Informação - UFMS (2024 - atual)  
 
----
- <img src="assets/gif/hello.gif" width="250">
 
-## 🚀 Sobre mim
-
-Sou desenvolvedora com foco em **frontend**, apaixonada por tecnologia e aprendizado contínuo.  
-Tenho experiência com desenvolvimento de interfaces modernas, organização de projetos e boas práticas.
-
-✨ Busco oportunidades para crescer como desenvolvedora e contribuir com soluções reais.
 
 ---
 ---
